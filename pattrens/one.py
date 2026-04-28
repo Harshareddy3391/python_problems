@@ -4,3 +4,10 @@
         print("1"*j,"*",end="")
     print()
 """
+
+
+n=6
+
+for i in range(n,0,-1):
+
+    print("*")
