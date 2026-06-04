@@ -3,3 +3,6 @@ n=int(input())
 
 if n&1 == 0 :
     print("eve")
+
+else:
+    print("hello")
