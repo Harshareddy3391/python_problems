@@ -6,3 +6,4 @@ for i in range(len(a)):
     for j in range(i+1):
         if a[i]+a[j] == t:
             print(i,j)"""
+ 
